@@ -1,0 +1,32 @@
+{
+  "version": 1,
+  "base_track": "IPPON",
+  "base_artist": "Albert Connor",
+  "createdAt": "2026-02-16T08:49:04.014468Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Ippon Lite",
+      "artist": "Kispál és a Borz",
+      "has_synced": true,
+      "path": "select/01_Ippon_Lite_Kispál_és_a_Borz.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Oredatte Guitar Ippon Kakaete Inaka Kara Joukyou Shitakatta",
+      "artist": "Shikao Suga",
+      "has_synced": true,
+      "path": "select/02_Oredatte_Guitar_Ippon_Kakaete_Inaka_Kara_Joukyou_Shitakatta_Shikao_Suga.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "IPPON (feat. 018)",
+      "artist": "Albert Connor",
+      "has_synced": false,
+      "path": "select/pl_01_IPPON_(feat._018)_Albert_Connor.txt"
+    }
+  ]
+}
